@@ -1,17 +1,23 @@
 {
-    "Index":{
-        "navHome": "Inicio",
-        "navAbout": "Acerca de",
-        "navContact": "Contacto",
-        "navTokenomics" : "Tokenomics",
-        "navRoadmap" : "Hoja de ruta",
-        "navBlog" : "Blog",
-        "heroTitle": "Bienvenido a Matara, donde vive la esperanza",
-        "heroSubtitle": "En Matara creemos en el poder del propósito. Nuestra misión es capacitar a las personas para que descubran su verdadera esencia y naveguen por la vida con claridad y dirección.",
-        "heroButton": "Papel blanco",
-        "aboutTitle": "Acerca de Matara",
-        "aboutSubtitle": "En su verdadera Esencia, Matara es el líder de la valiente comunidad de personas que se esfuerzan por ser mejores cada día y encaminarse hacia el cumplimiento de su propósito. Es una criptomoneda peer-to-peer de código abierto que aprovecha la tecnología blockchain, un sistema descentralizado robusto para almacenar datos en un libro de contabilidad de acceso público. Este libro de contabilidad está sostenido por una red de computadoras conocidas como nodos, lo que garantiza altos niveles de seguridad y transparencia. Más allá de esto, en su verdadera forma, Matara es el líder del futuro donde sus seguidores y su comunidad están formados por personas como usted que viven su verdadero yo en una comunidad de mentes similares.",
-        "techTitle": "Tecnología",
-        "techSubtitle": "Matara aprovecha la tecnología blockchain para crear un ecosistema descentralizado donde la transparencia, la seguridad y la confianza son primordiales. Construido sobre Binance Smart Chain (BSC), nuestro token $MAT sirve como moneda nativa y token de utilidad del ecosistema, lo que permite a los usuarios acceder a funciones premium, participar en procesos de gobernanza y realizar transacciones dentro de la comunidad."
+  "Index": {
+    "navHome": "Inicio",
+    "navAbout": "Acerca de",
+    "navContact": "Contacto",
+    "navTokenomics": "Tokenomics",
+    "navRoadmap": "Hoja de ruta",
+    "navBlog": "Blog",
+    "heroTitle": "Esperanza. Fe. Legado. Memes.",
+    "heroSubtitle": "Un memecoin nacido de la leyenda del Rey Guerrero León, Matara combate la desesperanza con el poder de la comunidad, los memes y el propósito.",
+    "heroButton": "Comprar $MARS",
+    "aboutTitle": "Acerca de Matara",
+    "aboutSubtitle": "Cada movimiento comienza con una historia. El nuestro comienza con un León. Hace mucho tiempo (bueno, no tanto), la gente estaba cansada. La pobreza había desgastado sus sueños, las oportunidades eran tan escasas como un airdrop en un mercado bajista, y la esperanza se rekt cada día. Entonces llegó la leyenda de Matara, el Rey Guerrero León, no tu típica mascota de memecoin, sino un giga-chad de valentía. Con patas de diamante y un rugido que resonaba en los valles de la desesperanza, se levantó contra la falta de esperanza y declaró: “WAGMI”. Así nació el movimiento Matara. No somos solo otro token con un animal gracioso pegado encima. Somos una cultura, una vibra y un rugido que difunde Esperanza, Fe y Legado a través de memes, comunidad y energía constructora.",
+    "techTitle": "Tecnología",
+    "techSubtitle": "Seamos realistas — la mayoría de los memecoins no se preocupan por la tecnología. Se lanzan, hacen moon, caen, y desaparecen. Matara es diferente. Detrás de los memes y la vibra de la comunidad, hay una verdadera infraestructura blockchain que impulsa el rugido:",
+    "techTitle2": "Fuerza del Smart Contract",
+    "techSubtitle2": {
+      "0": "Construido sobre Binance Smart Chain (BEP-20) para bajas comisiones y accesibilidad global.",
+      "1": "El contrato es inmutable: sin botón de mint, sin expansiones furtivas de suministro, sin trucos rug-pull.",
+      "2": "Propiedad renunciada después de la configuración — porque los verdaderos leones no juegan en modo dios."
     }
+  }
 }

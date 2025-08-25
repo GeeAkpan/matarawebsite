@@ -10,6 +10,8 @@ import Technology from "@/components/Technology";
 import Tokenomics from "@/components/Tokenomics";
 import UseCases from "@/components/UseCases";
 
+// export const dynamic = "force-dynamic";
+
 export default function Home() {
   
   return (

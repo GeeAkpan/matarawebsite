@@ -1,17 +1,23 @@
 {
-    "Index":{
-        "navHome": "Home",
-        "navAbout": "Over",
-        "navContact": "Contact",
-        "navTokenomics": "Tokenomics",
-        "navRoadmap": "Roadmap",
-        "navBlog": "Blog",
-        "heroTitle": "Welkom in Matara waar hoop leeft",
-        "heroSubtitle": "Bij Matara geloven we in de kracht van doelgerichtheid. Onze missie is om individuen in staat te stellen hun ware essentie te ontdekken en met duidelijkheid en richting door het leven te navigeren.",
-        "heroButton": "Wit papier",
-        "aboutTitle": "Over Matara",
-        "aboutSubtitle": "In zijn ware essentie is Matara de leider van de moedige gemeenschap van mensen die ernaar streven elke dag beter te worden en op weg zijn naar het vervullen van hun doel. Het is een open-source peer-to-peer cryptocurrency die gebruik maakt van blockchain-technologie, een robuust gedecentraliseerd systeem voor het opslaan van gegevens in een openbaar toegankelijk grootboek. Dit grootboek wordt bijgehouden door een netwerk van computers, bekend als knooppunten, waardoor een hoog niveau van beveiliging en transparantie wordt gegarandeerd. Daarnaast is Matara in zijn ware vorm de leider van de toekomst, waar zijn volgers en gemeenschap bestaan ​​uit mensen zoals jij die hun ware zelf uitleven in een gemeenschap van gelijkgestemden.",
-        "techTitle": "Technologie",
-        "techSubtitle": "Matara maakt gebruik van blockchain-technologie om een ​​gedecentraliseerd ecosysteem te creëren waarin transparantie, veiligheid en vertrouwen voorop staan. Ons $MAT-token is gebouwd op de Binance Smart Chain (BSC) en fungeert als de eigen valuta en het nutstoken van het ecosysteem, waardoor gebruikers toegang krijgen tot premiumfuncties, kunnen deelnemen aan bestuursprocessen en transacties binnen de gemeenschap kunnen aangaan."
+  "Index": {
+    "navHome": "Home",
+    "navAbout": "Over",
+    "navContact": "Contact",
+    "navTokenomics": "Tokenomics",
+    "navRoadmap": "Roadmap",
+    "navBlog": "Blog",
+    "heroTitle": "Hoop. Geloof. Erfenis. Memes.",
+    "heroSubtitle": "Een memecoin geboren uit de legende van de Leeuwenkrijgerkoning, Matara vecht tegen hopeloosheid met de kracht van community, memes en purpose.",
+    "heroButton": "Koop $MARS",
+    "aboutTitle": "Over Matara",
+    "aboutSubtitle": "Elke beweging begint met een verhaal. Het onze begint met een Leeuw. Lang geleden (oké, niet zo heel lang geleden) waren de mensen moe. Armoede had hun dromen verscheurd, kansen waren zo schaars als een airdrop in een bear market, en hoop werd dagelijks gerekt. Toen kwam de legende van Matara, de Leeuwenkrijgerkoning, niet je gemiddelde memecoin-mascotte, maar een giga-chad van moed. Met diamond paws en een brul die door de valleien van wanhoop echode, stond hij op tegen hopeloosheid en verklaarde: “WAGMI.” Dat was het moment dat de Matara-beweging werd geboren. We zijn niet zomaar een andere token met een grappig dier erop geplakt. We zijn een cultuur, een vibe, en een brul die Hoop, Geloof en Erfenis verspreidt via memes, community en builder energy.",
+    "techTitle": "Technologie",
+    "techSubtitle": "Laten we eerlijk zijn — de meeste memecoins geven niets om technologie. Ze lanceren, gaan to the moon, dumpen, en verdwijnen. Matara is anders gebouwd. Onder de memes en community vibes zit echte blockchain-infrastructuur die de brul aandrijft:",
+    "techTitle2": "Kracht van het Smart Contract",
+    "techSubtitle2": {
+      "0": "Gebouwd op Binance Smart Chain (BEP-20) voor lage kosten en wereldwijde toegankelijkheid.",
+      "1": "Contract is immutable: geen mint-knop, geen stiekeme supply-expansies, geen rug-pull trucs.",
+      "2": "Eigendom opgegeven na setup — want echte leeuwen spelen geen god mode."
     }
+  }
 }

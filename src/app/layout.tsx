@@ -1,15 +1,9 @@
-import { NextIntlClientProvider } from 'next-intl';
-
+import { NextIntlClientProvider } from "next-intl";
 
 export default function RootLayout({
-    children,
+  children,
 }: Readonly<{
-    children: React.ReactNode;
+  children: React.ReactNode;
 }>) {
-    return (
-        <NextIntlClientProvider>
-            {children}
-        </NextIntlClientProvider>
-        
-    );
+  return <NextIntlClientProvider>{children}</NextIntlClientProvider>;
 }

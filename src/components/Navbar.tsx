@@ -18,14 +18,14 @@ function Navbar() {
     <div className="bg-[#06131b] w-full flex items-center justify-center sticky top-0 z-40 ">
       <div className=" text-white  md:p-[15px_50px] justify-between flex items-center xl:container w-full">
         <div className="w-full lg:w-fit items-center justify-between lg:justify-start flex p-[15px_20px] lg:p-0">
-          <Link href="/">
+          {/* <Link href="/">
             <Image
               src={logo}
               alt="logo"
               className="hidden lg:block h-[70px] w-[70px]"
             />
             <Image src={mlogo} alt="logo" className="lg:hidden h-10 w-10" />
-          </Link>
+          </Link> */}
           <div className="flex items-center space-x-[10px] lg:hidden">
             <Translate />
             <div
